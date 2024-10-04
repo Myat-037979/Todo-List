@@ -1,0 +1,39 @@
+{
+  "todolist": [
+    {
+      "id": "2",
+      "task": "cleaning bedroom",
+      "complete": true
+    },
+    {
+      "id": "3",
+      "task": "learning react",
+      "complete": true
+    },
+    {
+      "id": "4",
+      "task": "write code",
+      "complete": false
+    },
+    {
+      "id": "bc6f450f-30c2-433a-8933-d669b513e690",
+      "task": "doing homework",
+      "complete": true
+    },
+    {
+      "id": "a0feefbc-a4a9-4096-963d-bee28d2d2080",
+      "task": "doing nothing",
+      "complete": false
+    },
+    {
+      "id": "3d8ea30c-c18d-45b7-9d4c-be1c5c74fa51",
+      "task": "whatever!",
+      "complete": false
+    },
+    {
+      "id": "f12f0e02-4d86-46a1-9190-8d9a721a5c45",
+      "task": "doing drama for PMS",
+      "complete": true
+    }
+  ]
+}
